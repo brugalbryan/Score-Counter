@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sports Team Counter</string>
+    <string name="start">Start</string>
+    <string name="_0">0</string>
+    <string name="go">Go</string>
+    <string name="baseball">baseball</string>
+    <string name="call">CALL</string>
+    <string name="message">Message</string>
+    <string name="nearest_baseball_stadium">Nearest Baseball Stadium</string>
+
+    <string name="share">Share</string>
+</resources>
